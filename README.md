@@ -14,7 +14,7 @@ Include the CFNetwork framework in your project and link against libsqlite3.0.dy
 
 Add the .js files to your www folder on disk, and add reference(s) to the .js files as tags in your html file(s)
 
-Add new entry <plugin name="googleAnalyticsPlugin" value="GoogleAnalyticsPlugin" /> to config.xml
+Add new entry < plugin name="googleAnalyticsPlugin" value="GoogleAnalyticsPlugin" / > to config.xml
 
 Add google-analytics.com string to ExternalHosts array in project_name_.plist 
 
