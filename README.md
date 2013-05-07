@@ -6,7 +6,7 @@ Google Analytics Plugin for Cordova/Phonegap 2.5+
 
 Instructions
 
-Make sure you are running Cordova(PhoneGap) 1.5.0
+Make sure you are running Cordova(PhoneGap) 2.5.0
 
 Drag and drop the GoogleAnalytics folder from Finder to your Plugins folder in XCode, using "Create groups for any added folders"
 
