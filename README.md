@@ -31,4 +31,7 @@ and track views using the following code (replacing /loadready with your page or
 	You may be able to track events with the following (not 1oo% sure this works at the moment)
 	
 cordova.exec(null, null, "GoogleAnalyticsPlugin", "trackEvent", [ "category", "action", "label goes here", 666 ]);
+
+
+When you set up your profile in google analytics, choose the app type instead of website.
 	
