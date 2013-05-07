@@ -26,6 +26,7 @@ cordova.exec(null, null, "GoogleAnalyticsPlugin", "trackerWithTrackingId",["UA-0
 
 
 and track views using the following code (replacing /loadready with your page or view you want to track)
+	
 	cordova.exec(null, null, "GoogleAnalyticsPlugin", "trackView",["/loadready"]);
 	
 	You may be able to track events with the following (not 1oo% sure this works at the moment)
